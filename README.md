@@ -3,8 +3,6 @@ NLP Tutorial for Roberta-base fine-tuning in order to perform Sentiment Analysis
 
 Topics: NLP, Embeddings, Transformers Architecture.
 
-# Homework 3 - Which book would you recomend?
-
 *************************
 ### Goal
 The objective of this notebook is to show various techniques with which to perform a sentiment analysis on a dataset containing film reviews, taken from Ibdm, and then to perform sentiment predictions for unlabelled reviews.
